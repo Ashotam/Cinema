@@ -1,0 +1,9 @@
+.container{
+    width: auto;
+    margin:0;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    justify-content: center;
+    background-color: powderblue;
+}

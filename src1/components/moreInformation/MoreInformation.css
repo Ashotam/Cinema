@@ -1,0 +1,36 @@
+.mContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkslategrey;
+    height: 500px;
+
+
+}
+.mImage {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    width: 425px;
+    height: 300px;
+    margin: 10px 10px 10px 10px;
+
+}
+
+.overview{
+    width: 800px;
+    border: 1px solid black;
+    font-size: 20px;
+    margin: 10px 10px 10px 10px;
+    padding:  10px 10px 10px 10px;
+}
+.mWrapper button{
+    width: 100px;
+    height: 100px;
+    margin:5px 550px;
+    background-color:darkgray;
+    border: none;
+    border-radius: 50%;
+
+}

@@ -1,0 +1,53 @@
+.headerBanner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 140px;
+    background-color: darkkhaki;
+    padding: 0;
+
+
+}
+
+.headerWrapper{
+    width: 1349px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 28px;
+    margin:  auto;
+}
+
+.headerWrapper img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+
+}
+.headerLogo{
+    display: flex;
+    justify-content:  space-between;
+    padding-right: 700px;
+
+}
+
+.headerLogin{
+    border: 1px solid black;
+    border-radius: 45%;
+    padding: 10px;
+    background-color: black;
+    margin-right: 40px;
+    color: cadetblue;
+
+}
+.headerRegister{
+    border: 1px solid black;
+    border-radius: 45%;
+    padding: 10px;
+    background-color: black;
+    color:cadetblue;
+
+}
+
+
+

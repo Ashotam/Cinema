@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+.wrapper{
+  width: 100%;
+  min-height: 250px;
+
+}
+
+body{
+  background-color: powderblue;
+}
+
+
